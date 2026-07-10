@@ -52,3 +52,4 @@ Same-block external buys may be restricted by NOXA (`LaunchBlockBuyBlocked`). Th
 | WETH | `0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73` |
 | SwapRouter02 | `0xCaf681a66D020601342297493863E78C959E5cb2` |
 | QuoterV2 | `0x33e885ed0ec9bf04ecfb19341582aadcb4c8a9e7` |
+ 
