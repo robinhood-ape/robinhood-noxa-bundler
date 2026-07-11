@@ -66,4 +66,3 @@ export function requirePrivateKey(): Hex {
   }
   return config.privateKey;
 }
- 
