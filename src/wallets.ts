@@ -47,3 +47,4 @@ export function printWallets(wallets: BundleWallet[]): void {
     console.log(`       ${w.privateKey}`);
   }
 }
+ 
