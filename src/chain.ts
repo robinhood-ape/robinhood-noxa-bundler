@@ -217,4 +217,3 @@ export function createClients(privateKey: Hex): Clients {
   });
   return { publicClient, walletClient, account };
 }
- 
